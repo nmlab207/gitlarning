@@ -22,3 +22,8 @@ void y(void) {
 	
 	
 }
+
+void z(void) {
+	
+	
+}
